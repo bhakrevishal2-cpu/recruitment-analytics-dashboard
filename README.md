@@ -1,4 +1,4 @@
-
+"USE DESKTOP MODE' WEB LIVE:https://recruitment-analytics-dashboard-ntd.vercel.app/
 Maine yeh project isliye banaya hai kyunki aaj ke time mein companies ke liye hiring aur recruitment ka data track karna kaafi messy ho jata hai. Yeh website ek simple aur clean solution hai jahan par HR aur companies apne poore hiring process ka data ek hi jagah par aasaani se dekh sakti hain. Basically, yeh recruitment ka control center hai! 🎯
 
 🛠 Yeh website kya kaam karti hai?
@@ -21,9 +21,6 @@ Deployment: Render par live kiya hai 🌐
 
 🚀 Isko apne PC par kaise chalaye?
 Agar tumhe mera code apne system par run karna hai, toh bas ye steps follow karo:
-
-Repo ko clone karo:
-git clone https://github.com/tumhara-username/recruitment-analytics-dashboard.git
 
 Backend setup:
 cd backend
