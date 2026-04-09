@@ -61,7 +61,7 @@ const App = () => {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.post('http://localhost:8000/api/upload', formData);
+      const response = await axios.post('https://recruitment-analytics-dashboard-1.onrender.com/upload', formData);
       if (response.data.success) {
         setData(response.data.data);
       } else {
