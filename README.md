@@ -34,9 +34,3 @@ cd frontend
 npm install
 npm start
 
-💡 Developer Note
-Yeh project banate waqt maine bahut kuch naya seekha. Sach batau toh deployment aur GitHub errors fix karne mein bahut dimag kharab hua. Yahan tak ki VS Code se repo push karte waqt mere i5 4th gen wale PC par itna load aa gaya ki wo crash hoke restart ho gaya tha 😂. Magar finally sab live hai!
-
-Agar tumhe is code mein koi bug mile ya isko aur better banane ka koi idea ho, toh issue open kar dena ya pull request bhej dena. 🙌
-
-Built by Vishal ✌️
